@@ -1,0 +1,6 @@
+framework module HeyRexNotificationLib {
+  umbrella header "HeyRexNotificationLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

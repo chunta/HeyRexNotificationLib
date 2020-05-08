@@ -1,0 +1,16 @@
+PODS:
+  - HeyRexNotificationLib (0.1.0)
+
+DEPENDENCIES:
+  - HeyRexNotificationLib (from `../`)
+
+EXTERNAL SOURCES:
+  HeyRexNotificationLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HeyRexNotificationLib: e9cca5b815bb2f0a4e6c32db9586dea9a5b65099
+
+PODFILE CHECKSUM: 8f64a9873a5154c1ad3985e1c12354addb402031
+
+COCOAPODS: 1.9.1
